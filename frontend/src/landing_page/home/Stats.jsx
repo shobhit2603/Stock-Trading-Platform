@@ -3,7 +3,7 @@ import { ArrowRight } from 'lucide-react';
 
 export default function Stats() {
     return (
-        <section>
+        <section className='mb-40'>
             <div className='flex items-center justify-center gap-10'>
                 <div>
                     <h1 className='text-2xl font-medium py-10'>Trust with confidence</h1>
