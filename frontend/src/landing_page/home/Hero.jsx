@@ -1,5 +1,3 @@
-import React from 'react'
-
 export default function Hero() {
     return (
         <section className='p-5 mb-40 mt-20'>

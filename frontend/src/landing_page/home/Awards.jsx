@@ -1,5 +1,3 @@
-import React from 'react'
-
 export default function Awards() {
     return (
         <section className='mb-40'>
