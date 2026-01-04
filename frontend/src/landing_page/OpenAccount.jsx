@@ -1,5 +1,3 @@
-import React from 'react'
-
 export default function OpenAccount() {
     return (
         <section className='text-center mb-20'>
