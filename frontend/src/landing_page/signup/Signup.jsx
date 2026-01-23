@@ -38,7 +38,7 @@ export default function Signup() {
             />
           </div>
 
-          <button className="bg-[#387ed1] text-xl text-white px-23 py-3 rounded w-fit">
+          <button className="bg-[#387ed1] text-xl text-white px-23 py-3 rounded w-fit hover:bg-neutral-900 cursor-pointer">
             Get OTP
           </button>
 
