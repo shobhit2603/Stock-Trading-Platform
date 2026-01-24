@@ -1,6 +1,7 @@
 import Signup from "./Signup";
 import Explore from "./Explore";
 import StepsSection from "./Steps";
+import OpenAccount from "../OpenAccount";
 
 export default function SignupPage() {
   return (
@@ -8,6 +9,7 @@ export default function SignupPage() {
       <Signup />
       <Explore />
       <StepsSection />
+      <OpenAccount />
     </>
   );
 }
