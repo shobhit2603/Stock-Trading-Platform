@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <div className="my-40 flex flex-col gap-4 items-center justify-center">
+    <section className="py-40 flex flex-col gap-4 items-center justify-center">
       <h1 className="text-3xl font-medium text-neutral-700">
         Zerodha Products
       </h1>
@@ -13,6 +13,6 @@ export default function Hero() {
           investment products <i class="ri-arrow-right-long-line"></i>
         </span>
       </p>
-    </div>
+    </section>
   );
 }
