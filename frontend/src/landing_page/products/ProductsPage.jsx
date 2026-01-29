@@ -1,3 +1,11 @@
+import Hero from "./Hero";
+import LeftSection from "./LeftSection";
+
 export default function ProductsPage() {
-  return <div>ProductsPage</div>;
+  return (
+    <>
+      <Hero />
+      {/* <LeftSection /> */}
+    </>
+  );
 }

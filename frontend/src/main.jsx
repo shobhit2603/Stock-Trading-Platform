@@ -10,6 +10,7 @@ import SupportPage from "./landing_page/support/SupportPage";
 import Navbar from "./landing_page/Navbar";
 import Footer from "./landing_page/Footer";
 import NotFound from "./landing_page/NotFound";
+import "remixicon/fonts/remixicon.css";
 
 createRoot(document.getElementById("root")).render(
   <BrowserRouter>
