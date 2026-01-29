@@ -66,7 +66,7 @@ export default function ProductsPage() {
       />
 
       <LeftSection
-        imageSrc="/products-coin.png"
+        imageSrc="/varsity-products.svg"
         imageAlt="Varsity mobile"
         title="Varsity mobile"
         description={`An easy to grasp, collection of stock market lessons with in-depth coverage and illustrations. Content is broken down into bite-size cards to help you learn on the go.`}
