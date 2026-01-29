@@ -8,7 +8,7 @@ export default function LeftSection({
   storeImages,
 }) {
   return (
-    <section className="flex items-center justify-between gap-20 mx-40 my-15">
+    <section className="flex items-center justify-between gap-20 mx-40 min-h-[40vh]">
       <div className="w-2/3 pl-15">
         <img src={imageSrc} alt={imageAlt} />
       </div>

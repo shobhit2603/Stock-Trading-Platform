@@ -6,8 +6,8 @@ export default function RightSection({
   imageAlt,
 }) {
   return (
-    <section className="flex items-center justify-between gap-20 mx-40 my-15">
-      <div className="w-1/3 flex flex-col gap-7">
+    <section className="flex items-center justify-between gap-20 mx-40 my-20">
+      <div className="w-1/3 flex flex-col gap-7 pl-15">
         <h1 className="text-2xl font-medium text-neutral-700">{title}</h1>
 
         <p className="text-neutral-600 whitespace-pre-line">{description}</p>
